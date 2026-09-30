@@ -1,0 +1,40 @@
+# Dependencies
+node_modules/
+.venv/
+venv/
+
+# Build / output
+.next/
+out/
+dist/
+build/
+*.tsbuildinfo
+
+# Environment
+.env
+.env.local
+.env*.local
+
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Local data / databases
+backend/data/
+/data/
+*.sqlite3
+
+# Editor / OS
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/*
+!.vscode/extensions.json
+!.vscode/mcp.json
+
+# Logs
+*.log
+npm-debug.log*

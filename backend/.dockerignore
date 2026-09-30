@@ -1,0 +1,9 @@
+# Local dev / secrets / large dirs - keep the image small
+.venv
+data
+__pycache__
+*.pyc
+.env
+tests
+docs
+.git

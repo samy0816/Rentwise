@@ -1,0 +1,10 @@
+# Treat binaries as binary to avoid line-ending mangling
+*.pdf binary
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.ico binary
+*.woff binary
+*.woff2 binary
+*.ttf binary
